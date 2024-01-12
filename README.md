@@ -1,6 +1,6 @@
 # Counter Smart Contract
 
-This is an example of a simple smart contract.
+This is an example of a simple smart contract that increments and decrements the counter.
 
 ## Usage
 
